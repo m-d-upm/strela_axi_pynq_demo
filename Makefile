@@ -1,5 +1,5 @@
 VIVADO = vivado
-TCL_SCRIPT = cgra_axi_lite_v1_0_project.tcl
+TCL_SCRIPT = cgra_axi_demo_pynq_z2.tcl
 FLAGS = -mode batch -source
 
 all: project
