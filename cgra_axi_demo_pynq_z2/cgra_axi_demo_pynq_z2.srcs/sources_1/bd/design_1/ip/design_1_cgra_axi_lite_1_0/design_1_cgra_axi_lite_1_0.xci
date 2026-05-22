@@ -4,7 +4,7 @@
     "xci_name": "design_1_cgra_axi_lite_1_0",
     "cell_name": "cgra_axi_lite_1",
     "component_reference": "user.org:user:cgra_axi_lite:1.0",
-    "ip_revision": "13",
+    "ip_revision": "14",
     "gen_directory": "../../../../../../cgra_axi_demo_pynq_z2.gen/sources_1/bd/design_1/ip/design_1_cgra_axi_lite_1_0",
     "parameters": {
       "component_parameters": {
@@ -41,7 +41,7 @@
       },
       "runtime_parameters": {
         "IPCONTEXT": [ { "value": "IP_Integrator" } ],
-        "IPREVISION": [ { "value": "13" } ],
+        "IPREVISION": [ { "value": "14" } ],
         "MANAGED": [ { "value": "TRUE" } ],
         "OUTPUTDIR": [ { "value": "../../../../../../cgra_axi_demo_pynq_z2.gen/sources_1/bd/design_1/ip/design_1_cgra_axi_lite_1_0" } ],
         "SELECTEDSIMMODEL": [ { "value": "" } ],
